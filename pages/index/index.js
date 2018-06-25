@@ -16,7 +16,8 @@ Page({
       { name: 'double-axis', value: '双 Y 轴' },
       { name: 'k', value: 'K 线图(异步获取数据)' },
       { name: 'stack-area', value: '层叠区域图' },
-      { name: 'multiCharts', value: '多图表好性能' }
+      { name: 'multiCharts', value: '多图表好性能' },
+      { name: 'test', value: 'kjdkj' }
     ]
   },
   gotoPage: function (e) {

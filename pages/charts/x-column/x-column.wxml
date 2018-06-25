@@ -1,0 +1,6 @@
+<view class="container">
+    <block wx:key='id' wx:for='0'>
+      <ff-canvas canvas-id="column" opts="{{ opts }}"></ff-canvas>
+      <view class='split'>测试一下</view>
+    </block>
+</view>

@@ -1,0 +1,3 @@
+<view class="item">
+  <x-column></x-column>
+</view>
